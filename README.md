@@ -7,8 +7,8 @@ Web Flow:
 2 Knowing about User
 3 Login Page
 4 Acc to user our page will redirect to Farmer(selling page) or Consumer(buying page).
-  |__Farmers page => contains history, sell, etc options
-  |__Consumers page => contains cart, wishlist, history, etc options.
+  |__Farmers page => contains history, sell, etc options.
+  |__Consumers page => contains buy, cart, wishlist, history, etc options.
 
 
 Features to users:
